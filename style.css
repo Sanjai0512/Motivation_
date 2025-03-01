@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    margin:10%;
+    text-align: center;
+
+}
+img{
+    
+    border: 5px solid white;
+}
+h1{
+    font:900;
+    font-family: cursive;
+    color: white;
+}
+p{
+    color: white;
+}
